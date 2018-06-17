@@ -43,7 +43,7 @@ for (x in col[6:length(col)]){
 
 total
 
-Subway.1.trans <- Subway.1 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
+Subway.1.trans <- Subway.1 %>% group_by(³¯Â¥, È£¼±, ¿ª¸í, ±¸.ºĞ) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
                                                              X06.07 = sum( X06...07 ),   X07.08 = sum( X07...08 ),   
                                                              X08.09 = sum( X08...09 ),   X09.10 = sum( X09...10 ),   
                                                              X10.11 = sum( X10...11 ),   X11.12 = sum( X11...12 ),   
@@ -56,7 +56,7 @@ Subway.1.trans <- Subway.1 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% sum
                                                              X00.01 = sum( X00...01 ),   X01.02 = sum( X01...02 ),  
                                                              X02.03 = sum( X02...03 ),   X03.04 = sum( X03...04 ))
 
-Subway.2.trans <- Subway.2 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
+Subway.2.trans <- Subway.2 %>% group_by(³¯Â¥, È£¼±, ¿ª¸í, ±¸.ºĞ) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
                                                              X06.07 = sum( X06...07 ),   X07.08 = sum( X07...08 ),   
                                                              X08.09 = sum( X08...09 ),   X09.10 = sum( X09...10 ),   
                                                              X10.11 = sum( X10...11 ),   X11.12 = sum( X11...12 ),   
@@ -69,7 +69,7 @@ Subway.2.trans <- Subway.2 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% sum
                                                              X00.01 = sum( X00...01 ),   X01.02 = sum( X01...02 ),  
                                                              X02.03 = sum( X02...03 ),   X03.04 = sum( X03...04 ))
 
-Subway.3.trans <- Subway.3 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
+Subway.3.trans <- Subway.3 %>% group_by(³¯Â¥, È£¼±, ¿ª¸í, ±¸.ºĞ) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
                                                              X06.07 = sum( X06...07 ),   X07.08 = sum( X07...08 ),   
                                                              X08.09 = sum( X08...09 ),   X09.10 = sum( X09...10 ),   
                                                              X10.11 = sum( X10...11 ),   X11.12 = sum( X11...12 ),   
@@ -82,7 +82,7 @@ Subway.3.trans <- Subway.3 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% sum
                                                              X00.01 = sum( X00...01 ),   X01.02 = sum( X01...02 ),  
                                                              X02.03 = sum( X02...03 ),   X03.04 = sum( X03...04 ))
 
-Subway.4.trans <- Subway.4 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
+Subway.4.trans <- Subway.4 %>% group_by(³¯Â¥, È£¼±, ¿ª¸í, ±¸.ºĞ) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
                                                              X06.07 = sum( X06...07 ),   X07.08 = sum( X07...08 ),   
                                                              X08.09 = sum( X08...09 ),   X09.10 = sum( X09...10 ),   
                                                              X10.11 = sum( X10...11 ),   X11.12 = sum( X11...12 ),   
@@ -95,7 +95,7 @@ Subway.4.trans <- Subway.4 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% sum
                                                              X00.01 = sum( X00...01 ),   X01.02 = sum( X01...02 ),  
                                                              X02.03 = sum( X02...03 ),   X03.04 = sum( X03...04 ))
 
-Subway.5.trans <- Subway.5 %>% group_by(ë‚ ì§œ, í˜¸ì„ , ì—­ëª…, êµ¬.ë¶„) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
+Subway.5.trans <- Subway.5 %>% group_by(³¯Â¥, È£¼±, ¿ª¸í, ±¸.ºĞ) %>% summarise( X04.05 = sum( X04...05 ),   X05.06 = sum( X05...06 ),   
                                                              X06.07 = sum( X06...07 ),   X07.08 = sum( X07...08 ),   
                                                              X08.09 = sum( X08...09 ),   X09.10 = sum( X09...10 ),   
                                                              X10.11 = sum( X10...11 ),   X11.12 = sum( X11...12 ),   
@@ -115,11 +115,11 @@ colnames(Subway.4.trans)
 colnames(Subway.5.trans)
 
 #subway.01.trans[-c(2)]
-Subway.1.trans <-subset(Subway.1.trans, select = -í˜¸ì„ )[, c(2,1,3, 5:(length(Subway.1.trans)-3))]
-Subway.2.trans <-subset(Subway.2.trans, select = -í˜¸ì„ )[, c(2,1,3, 5:(length(Subway.2.trans)-3))]
-Subway.3.trans <-subset(Subway.3.trans, select = -í˜¸ì„ )[, c(2,1,3, 5:(length(Subway.3.trans)-3))]
-Subway.4.trans <-subset(Subway.4.trans, select = -í˜¸ì„ )[, c(2,1,3, 5:(length(Subway.4.trans)-3))]
-Subway.5.trans <-subset(Subway.5.trans, select = -í˜¸ì„ )[, c(2,1,3, 5:(length(Subway.5.trans)-3))]
+Subway.1.trans <-subset(Subway.1.trans, select = -È£¼±)[, c(2,1,3, 5:(length(Subway.1.trans)-3))]
+Subway.2.trans <-subset(Subway.2.trans, select = -È£¼±)[, c(2,1,3, 5:(length(Subway.2.trans)-3))]
+Subway.3.trans <-subset(Subway.3.trans, select = -È£¼±)[, c(2,1,3, 5:(length(Subway.3.trans)-3))]
+Subway.4.trans <-subset(Subway.4.trans, select = -È£¼±)[, c(2,1,3, 5:(length(Subway.4.trans)-3))]
+Subway.5.trans <-subset(Subway.5.trans, select = -È£¼±)[, c(2,1,3, 5:(length(Subway.5.trans)-3))]
 
 colnames(Subway.1.trans)
 colnames(Subway.2.trans)
@@ -127,11 +127,11 @@ colnames(Subway.3.trans)
 colnames(Subway.4.trans)
 colnames(Subway.5.trans)
 
-names(Subway.1.trans) <- gsub(x = names(Subway.1.trans), pattern = "êµ¬.ë¶„", replacement = "êµ¬ë¶„")  
-names(Subway.2.trans) <- gsub(x = names(Subway.2.trans), pattern = "êµ¬.ë¶„", replacement = "êµ¬ë¶„")  
-names(Subway.3.trans) <- gsub(x = names(Subway.3.trans), pattern = "êµ¬.ë¶„", replacement = "êµ¬ë¶„")  
-names(Subway.4.trans) <- gsub(x = names(Subway.4.trans), pattern = "êµ¬.ë¶„", replacement = "êµ¬ë¶„")  
-names(Subway.5.trans) <- gsub(x = names(Subway.5.trans), pattern = "êµ¬.ë¶„", replacement = "êµ¬ë¶„")  
+names(Subway.1.trans) <- gsub(x = names(Subway.1.trans), pattern = "±¸.ºĞ", replacement = "±¸ºĞ")  
+names(Subway.2.trans) <- gsub(x = names(Subway.2.trans), pattern = "±¸.ºĞ", replacement = "±¸ºĞ")  
+names(Subway.3.trans) <- gsub(x = names(Subway.3.trans), pattern = "±¸.ºĞ", replacement = "±¸ºĞ")  
+names(Subway.4.trans) <- gsub(x = names(Subway.4.trans), pattern = "±¸.ºĞ", replacement = "±¸ºĞ")  
+names(Subway.5.trans) <- gsub(x = names(Subway.5.trans), pattern = "±¸.ºĞ", replacement = "±¸ºĞ")  
 
 colnames(Subway.1.trans)
 colnames(Subway.2.trans)
@@ -153,7 +153,7 @@ tail(total.df.2)
 
 head(Subway.12)
 
-names(Subway.12) <- gsub(x = names(Subway.12), pattern = "ì‹œ", replacement = "")  
+names(Subway.12) <- gsub(x = names(Subway.12), pattern = "½Ã", replacement = "")  
 
 colnames(Subway.11)
 colnames(Subway.12)
@@ -186,14 +186,14 @@ head(subway)
 tail(subway)
 colnames(subway)
 
-unique(subway$ì—­ëª…)
-grep( "ê°•ë‚¨", unique(subway$ì—­ëª…))
+unique(subway$¿ª¸í)
+grep( "°­³²", unique(subway$¿ª¸í))
 
-unique(subway$ì—­ëª…)[11]
+unique(subway$¿ª¸í)[11]
 
 head(subway,3)
 
-kangnam <- subway[ subway$ì—­ëª… == "ê°•ë‚¨(222)", ]
+kangnam <- subway[ subway$¿ª¸í == "°­³²(222)", ]
 
 dim(kangnam)
 
@@ -205,52 +205,52 @@ kangnam$sum <- apply(kangnam[ , c(4:length(kangnam))], 1, sum)
 head(kangnam)
 
 kangnam <- kangnam %>% 
-mutate( ì›” = substr(kangnam$ë‚ ì§œ, 1, 7))
+mutate( ¿ù = substr(kangnam$³¯Â¥, 1, 7))
 
-kangnam.graph <- kangnam %>% group_by(ì›”) %>% summarise( Month.Total = sum(sum))
+kangnam.graph <- kangnam %>% group_by(¿ù) %>% summarise( Month.Total = sum(sum))
 
 kangnam.graph
 
-barplot(kangnam.graph$Month.Total, names.arg = kangnam.graph$ì›”)
+barplot(kangnam.graph$Month.Total, names.arg = kangnam.graph$¿ù)
 
-ggplot(kangnam.graph, aes(x=ì›”, y=Month.Total)) +
+ggplot(kangnam.graph, aes(x=¿ù, y=Month.Total)) +
 geom_bar(stat='identity') +
 theme(axis.text.x=element_text(angle=0))
 
-# ìë¦¬ìˆ˜ ì˜µì…˜ìœ¼ë¡œ ì¼ë°˜ì ì¸ ìˆ«ìë¡œ ë³€ì‹ 
+# ÀÚ¸®¼ö ¿É¼ÇÀ¸·Î ÀÏ¹İÀûÀÎ ¼ıÀÚ·Î º¯½Å
 options("scipen" = 100)
 
-ggplot(kangnam.graph, aes(x=ì›”, y=Month.Total)) +
+ggplot(kangnam.graph, aes(x=¿ù, y=Month.Total)) +
 geom_bar(stat='identity') +
 theme(axis.text.x=element_text(angle=0))
 
-kangnam.graph.2 <- kangnam %>% group_by(ì›”, êµ¬ë¶„) %>% summarise( Month.Total = sum(sum))
+kangnam.graph.2 <- kangnam %>% group_by(¿ù, ±¸ºĞ) %>% summarise( Month.Total = sum(sum))
 
 kangnam.graph.2
 colnames(kangnam.graph.2)
 
-ggplot(kangnam.graph.2, aes(x=ì›”, y=Month.Total, fill=êµ¬ë¶„)) +
+ggplot(kangnam.graph.2, aes(x=¿ù, y=Month.Total, fill=±¸ºĞ)) +
 geom_bar(stat='identity') +
 theme(axis.text.x=element_text(angle=0))
 
-ggplot(kangnam.graph.2, aes(x=ì›”, y=Month.Total, fill=êµ¬ë¶„)) +
+ggplot(kangnam.graph.2, aes(x=¿ù, y=Month.Total, fill=±¸ºĞ)) +
 geom_bar(stat='identity', position = "dodge") 
 
-ggplot(kangnam.graph.2, aes(x=ì›”, y=Month.Total, fill=êµ¬ë¶„)) +
+ggplot(kangnam.graph.2, aes(x=¿ù, y=Month.Total, fill=±¸ºĞ)) +
 geom_bar(stat='identity', position = "dodge", color = 'black')  +
 #scale_fill_brewer(palette = "Pastel1")
 scale_fill_brewer(direction = -1) 
 
-ggplot(kangnam.graph.2, aes(x=ì›”, y=Month.Total, fill=êµ¬ë¶„)) +
+ggplot(kangnam.graph.2, aes(x=¿ù, y=Month.Total, fill=±¸ºĞ)) +
 geom_bar(stat='identity', position = "dodge", color = 'tomato1')  +
 scale_fill_brewer(palette = "Pastel1") + 
 theme(axis.text.x=element_text(angle=45))+
-ylab("íƒ‘ìŠ¹ììˆ˜")
+ylab("Å¾½ÂÀÚ¼ö")
 
-ggplot(kangnam.graph.2, aes(x=ì›”, y=Month.Total, fill=êµ¬ë¶„)) +
+ggplot(kangnam.graph.2, aes(x=¿ù, y=Month.Total, fill=±¸ºĞ)) +
 geom_bar(stat='identity', position = "dodge", color = 'black')  +
 theme(axis.text.x=element_text(angle=45))+
-ylab("íƒ‘ìŠ¹ììˆ˜") + 
+ylab("Å¾½ÂÀÚ¼ö") + 
 scale_fill_manual(values=c("#669933", "#FFCC66"))
 
 head(subway,2)
@@ -260,7 +260,7 @@ subway$sum <- apply(subway[ , c(4:length(subway))], 1, sum)
 
 head(subway)
 
-subway.month <- subway %>% group_by(ì—­ëª…) %>% summarise( station.total = sum(sum))
+subway.month <- subway %>% group_by(¿ª¸í) %>% summarise( station.total = sum(sum))
 
 subway.month <- subway.month %>% arrange(desc(station.total))
 
@@ -268,41 +268,41 @@ subway.15 <- subway.month[1:15,]
 
 subway.15
 
-ggplot(subway.15, aes(x=ì—­ëª…, y=station.total)) +
+ggplot(subway.15, aes(x=¿ª¸í, y=station.total)) +
 geom_bar(stat = 'identity') + 
 theme(axis.text.x=element_text(angle=45))
 
-ggplot(subway.15, aes(x=reorder(ì—­ëª…, station.total), y=station.total)) +
+ggplot(subway.15, aes(x=reorder(¿ª¸í, station.total), y=station.total)) +
 geom_bar(stat = 'identity') 
 
-ggplot(subway.15, aes(x=ì—­ëª…, y=station.total)) +
+ggplot(subway.15, aes(x=¿ª¸í, y=station.total)) +
 geom_bar(stat = 'identity', fill='lightblue') + 
 theme(axis.text.x=element_text(angle=45))
 
-ggplot(subway.15, aes(x=ì—­ëª…, y=station.total)) +
+ggplot(subway.15, aes(x=¿ª¸í, y=station.total)) +
 geom_bar(stat = 'identity', fill='lightblue', color = 'black', width = 0.6) +
 geom_text(aes(y=station.total + 0.1 ,label=station.total), vjust= -0.2, color = 'red', size=2) + 
 theme(axis.text.x=element_text(angle=45)) + 
-xlab("ì§€í•˜ì² ì—­") +
-ylab("ì¸ì›(ëª…)") +
-ggtitle("2016ë…„ ì§€í•˜ì²  Top 15") + 
+xlab("ÁöÇÏÃ¶¿ª") +
+ylab("ÀÎ¿ø(¸í)") +
+ggtitle("2016³â ÁöÇÏÃ¶ Top 15") + 
 theme(plot.title = element_text(hjust = 0.5))
 
-subway.month.gubun <- subway %>% group_by(ì—­ëª…, êµ¬ë¶„) %>% summarise( station.total = sum(sum))
+subway.month.gubun <- subway %>% group_by(¿ª¸í, ±¸ºĞ) %>% summarise( station.total = sum(sum))
 
 subway.month.gubun
 
-subway.month.gubun$ì—­ëª… %in% subway.15$ì—­ëª…
+subway.month.gubun$¿ª¸í %in% subway.15$¿ª¸í
 
-subway.month.gubun[subway.month.gubun$ì—­ëª… %in% subway.15$ì—­ëª…,]
+subway.month.gubun[subway.month.gubun$¿ª¸í %in% subway.15$¿ª¸í,]
 
-subway.15.gubun <- subway.month.gubun[subway.month.gubun$ì—­ëª… %in% subway.15$ì—­ëª…,]
+subway.15.gubun <- subway.month.gubun[subway.month.gubun$¿ª¸í %in% subway.15$¿ª¸í,]
 
-ggplot(subway.15.gubun, aes(x=ì—­ëª…, y=station.total, fill=êµ¬ë¶„)) + 
+ggplot(subway.15.gubun, aes(x=¿ª¸í, y=station.total, fill=±¸ºĞ)) + 
 geom_bar(stat = 'identity') + 
 theme(axis.text.x=element_text(angle=45))
 
-ggplot(subway.15.gubun, aes(x=ì—­ëª…, y=station.total, fill=êµ¬ë¶„)) + 
+ggplot(subway.15.gubun, aes(x=¿ª¸í, y=station.total, fill=±¸ºĞ)) + 
 geom_bar(stat = 'identity', position = 'dodge') + 
 theme(axis.text.x=element_text(angle=45))
 
@@ -316,7 +316,7 @@ head(subway,3)
 colnames(subway)
 
 new <- subway %>%
-mutate( ì›” = substr(subway$ë‚ ì§œ, 1, 7))
+mutate( ¿ù = substr(subway$³¯Â¥, 1, 7))
 
 head(new)
 
@@ -339,16 +339,16 @@ new.1$sum <- apply(new.1[ , c(5:ncol(new.1))], 1, sum)
 head(new.1,3)
 
 new.2 <- new.1 %>%
-group_by(ì—­ëª…, êµ¬ë¶„, ì›”) %>%
+group_by(¿ª¸í, ±¸ºĞ, ¿ù) %>%
 summarise( Total = sum(sum))
 
 new.2
 
-ggplot(new.2, aes(x = ì—­ëª…, y=Total, fill=êµ¬ë¶„)) + 
+ggplot(new.2, aes(x = ¿ª¸í, y=Total, fill=±¸ºĞ)) + 
 geom_bar(stat='identity')
 
 save(list='new.2', file='test.RData')
 
 colnames(new.2)
 
-new.2[new.2$ì—­ëª… == 'ê°•ë‚¨(222)',]
+new.2[new.2$¿ª¸í == '°­³²(222)',]
